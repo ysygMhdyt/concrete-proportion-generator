@@ -1,0 +1,53 @@
+E:\c#2\混凝土配合比计算\混凝土配合比计算\bin\Debug\混凝土配合比计算.exe.config
+E:\c#2\混凝土配合比计算\混凝土配合比计算\bin\Debug\混凝土配合比计算.exe
+E:\c#2\混凝土配合比计算\混凝土配合比计算\bin\Debug\混凝土配合比计算.pdb
+E:\c#2\混凝土配合比计算\混凝土配合比计算\obj\Debug\混凝土配合比计算.csprojResolveAssemblyReference.cache
+E:\c#2\混凝土配合比计算\混凝土配合比计算\obj\Debug\混凝土配合比计算.Form1.resources
+E:\c#2\混凝土配合比计算\混凝土配合比计算\obj\Debug\混凝土配合比计算.Properties.Resources.resources
+E:\c#2\混凝土配合比计算\混凝土配合比计算\obj\Debug\混凝土配合比计算.csproj.GenerateResource.Cache
+E:\c#2\混凝土配合比计算\混凝土配合比计算\obj\Debug\混凝土配合比计算.exe
+E:\c#2\混凝土配合比计算\混凝土配合比计算\obj\Debug\混凝土配合比计算.pdb
+D:\ks\混凝土配合比计算\混凝土配合比计算\bin\Debug\混凝土配合比计算.exe.config
+D:\ks\混凝土配合比计算\混凝土配合比计算\obj\Debug\混凝土配合比计算.exe
+D:\ks\混凝土配合比计算\混凝土配合比计算\obj\Debug\混凝土配合比计算.pdb
+D:\ks\混凝土配合比计算\混凝土配合比计算\bin\Debug\混凝土配合比计算.exe
+D:\ks\混凝土配合比计算\混凝土配合比计算\bin\Debug\混凝土配合比计算.pdb
+D:\ks\混凝土配合比计算\混凝土配合比计算\obj\Debug\混凝土配合比计算.csprojResolveAssemblyReference.cache
+D:\ks\混凝土配合比计算\混凝土配合比计算\obj\Debug\混凝土配合比计算.Form1.resources
+D:\ks\混凝土配合比计算\混凝土配合比计算\obj\Debug\混凝土配合比计算.Properties.Resources.resources
+D:\ks\混凝土配合比计算\混凝土配合比计算\obj\Debug\混凝土配合比计算.csproj.GenerateResource.Cache
+D:\ks\混凝土配合比计算 2021.1.2_1\混凝土配合比计算\bin\Debug\混凝土配合比计算.exe.config
+D:\ks\混凝土配合比计算 2021.1.2_1\混凝土配合比计算\obj\Debug\混凝土配合比计算.exe
+D:\ks\混凝土配合比计算 2021.1.2_1\混凝土配合比计算\obj\Debug\混凝土配合比计算.pdb
+D:\ks\混凝土配合比计算 2021.1.2_1\混凝土配合比计算\bin\Debug\混凝土配合比计算.exe
+D:\ks\混凝土配合比计算 2021.1.2_1\混凝土配合比计算\bin\Debug\混凝土配合比计算.pdb
+D:\ks\混凝土配合比计算 2021.1.2_1\混凝土配合比计算\obj\Debug\混凝土配合比计算.csprojResolveAssemblyReference.cache
+D:\ks\混凝土配合比计算 2021.1.2_1\混凝土配合比计算\obj\Debug\混凝土配合比计算.Form1.resources
+D:\ks\混凝土配合比计算 2021.1.2_1\混凝土配合比计算\obj\Debug\混凝土配合比计算.Properties.Resources.resources
+D:\ks\混凝土配合比计算 2021.1.2_1\混凝土配合比计算\obj\Debug\混凝土配合比计算.csproj.GenerateResource.Cache
+D:\ks\混凝土配合比计算 2021.1.2_2\混凝土配合比计算\bin\Debug\混凝土配合比计算.exe.config
+D:\ks\混凝土配合比计算 2021.1.2_2\混凝土配合比计算\obj\Debug\混凝土配合比计算.exe
+D:\ks\混凝土配合比计算 2021.1.2_2\混凝土配合比计算\obj\Debug\混凝土配合比计算.pdb
+D:\ks\混凝土配合比计算 2021.1.2_2\混凝土配合比计算\bin\Debug\混凝土配合比计算.exe
+D:\ks\混凝土配合比计算 2021.1.2_2\混凝土配合比计算\bin\Debug\混凝土配合比计算.pdb
+D:\ks\混凝土配合比计算 2021.1.2_2\混凝土配合比计算\obj\Debug\混凝土配合比计算.csprojResolveAssemblyReference.cache
+D:\ks\混凝土配合比计算 2021.1.2_2\混凝土配合比计算\obj\Debug\混凝土配合比计算.Form1.resources
+D:\ks\混凝土配合比计算 2021.1.2_2\混凝土配合比计算\obj\Debug\混凝土配合比计算.Properties.Resources.resources
+D:\ks\混凝土配合比计算 2021.1.2_2\混凝土配合比计算\obj\Debug\混凝土配合比计算.csproj.GenerateResource.Cache
+D:\ks\混凝土配合比计算 2021.1.2_2\混凝土配合比计算\obj\Debug\混凝土配合比计算.启动窗体.resources
+D:\ks\混凝土配合比计算 2021.1.2_3\混凝土配合比计算\bin\Debug\混凝土配合比计算.exe.config
+D:\ks\混凝土配合比计算 2021.1.2_3\混凝土配合比计算\obj\Debug\混凝土配合比计算.exe
+D:\ks\混凝土配合比计算 2021.1.2_3\混凝土配合比计算\obj\Debug\混凝土配合比计算.pdb
+C:\Users\糯米团\Desktop\混凝土配合比计算 2021.1.2_3\混凝土配合比计算\bin\Debug\混凝土配合比计算.exe.config
+C:\Users\糯米团\Desktop\混凝土配合比计算 2021.1.2_3\混凝土配合比计算\obj\Debug\混凝土配合比计算.exe
+C:\Users\糯米团\Desktop\混凝土配合比计算 2021.1.2_3\混凝土配合比计算\obj\Debug\混凝土配合比计算.pdb
+C:\Users\糯米团\Desktop\混凝土配合比计算 2021.1.2_3\混凝土配合比计算\bin\Debug\混凝土配合比计算.exe
+C:\Users\糯米团\Desktop\混凝土配合比计算 2021.1.2_3\混凝土配合比计算\bin\Debug\混凝土配合比计算.pdb
+C:\Users\糯米团\Desktop\混凝土配合比计算 2021.1.2_3\混凝土配合比计算\obj\Debug\混凝土配合比计算.csprojResolveAssemblyReference.cache
+C:\Users\糯米团\Desktop\混凝土配合比计算 2021.1.2_3\混凝土配合比计算\obj\Debug\混凝土配合比计算.Form1.resources
+C:\Users\糯米团\Desktop\混凝土配合比计算 2021.1.2_3\混凝土配合比计算\obj\Debug\混凝土配合比计算.Properties.Resources.resources
+C:\Users\糯米团\Desktop\混凝土配合比计算 2021.1.2_3\混凝土配合比计算\obj\Debug\混凝土配合比计算.启动窗体.resources
+C:\Users\糯米团\Desktop\混凝土配合比计算 2021.1.2_3\混凝土配合比计算\obj\Debug\混凝土配合比计算.csproj.GenerateResource.Cache
+C:\Users\糯米团\Desktop\混凝土配合比计算+1950040 周思盼+1951547 沈怿怿+1953434 胡慧慧+1953594 刘佳\c#项目文件\混凝土配合比计算\bin\Debug\混凝土配合比计算.exe.config
+C:\Users\糯米团\Desktop\混凝土配合比计算+1950040 周思盼+1951547 沈怿怿+1953434 胡慧慧+1953594 刘佳\c#项目文件\混凝土配合比计算\obj\Debug\混凝土配合比计算.exe
+C:\Users\糯米团\Desktop\混凝土配合比计算+1950040 周思盼+1951547 沈怿怿+1953434 胡慧慧+1953594 刘佳\c#项目文件\混凝土配合比计算\obj\Debug\混凝土配合比计算.pdb
