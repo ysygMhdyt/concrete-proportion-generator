@@ -15,16 +15,6 @@ A generator for concrete mix proportions achieved by C#.Net and SQL Server
 
 ✅ Help and Instructions module
 
-### Database Design
-- E-R Diagram
-<p align="center">
-  <img src="https://github.com/ysygMhdyt/concrete-proportion-generator/blob/master/E-R.svg">
-</p>
-- Database Schema
-<p align="center">
-  
-</p>
-
 ### Sample Pages:
 <p align="center">
   <img src="https://github.com/ysygMhdyt/concrete-proportion-generator/assets/102852961/83a4687b-d520-44bb-b85a-e8199dd546be" width="50%">
@@ -33,3 +23,9 @@ A generator for concrete mix proportions achieved by C#.Net and SQL Server
   <img src="https://github.com/ysygMhdyt/concrete-proportion-generator/assets/102852961/d4ab1516-9e62-4a2b-9678-7b69802a4361" width="50%">
   <img src="https://github.com/ysygMhdyt/concrete-proportion-generator/assets/102852961/bb9564d1-54e2-4a7f-93a7-47f8c6969592" width="50%">
 </p> 
+
+### Database Design
+- E-R Diagram
+<p align="center">
+  <img src="https://github.com/ysygMhdyt/concrete-proportion-generator/blob/master/E-R.svg" width="75%">
+</p>
